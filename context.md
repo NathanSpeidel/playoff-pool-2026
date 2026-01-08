@@ -299,3 +299,7 @@
 - **pool-rules.md** - Complete league rules and scoring
 - **week-1.md** - Week 1 strategy and analysis (completed)
 - **context.md** - This file (Week 2+ planning context)
+- **IMG_8564.JPG** - Available QBs for Wild Card Round
+- **IMG_8565.JPG** - Available RBs for Wild Card Round
+- **IMG_8566.JPG** - Available WRs for Wild Card Round
+- **IMG_8567.JPG** - Available TEs for Wild Card Round
