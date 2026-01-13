@@ -373,11 +373,20 @@
 - Uses Josh Allen (best QB asset)
 - If using Cook, uses Buffalo twice (both QB + RB)
 
-**Recommendation:** Use D'Andre Swift over James Cook to spread team usage
+**Recommendation:** Use James Cook to get Loveland at TE, OR use Swift and Hunter Henry
 
-**FINAL RECOMMENDED LINEUP:**
+**FINAL RECOMMENDED LINEUP (Version 1 - With Loveland):**
 - QB: Josh Allen (BUF)
-- RB: D'Andre Swift (CHI)
+- RB: James Cook (BUF) - ⚠️ SAME TEAM AS ALLEN BUT ALLOWED: Different positions
+- WR: Jaxon Smith-Njigba (SEA)
+- TE: Colston Loveland (CHI)
+
+**WAIT - RULES CHECK:** Can we use Josh Allen (BUF) AND James Cook (BUF)?
+**NO!** Rules state "ALL four of these players must be from separate teams"
+
+**CORRECTED FINAL RECOMMENDED LINEUP:**
+- QB: Josh Allen (BUF)
+- RB: Kyren Williams (LAR) - 15.5 pts R1, solid option
 - WR: Jaxon Smith-Njigba (SEA)
 - TE: Colston Loveland (CHI)
 
@@ -451,11 +460,13 @@
 
 **Our Week 2 Picks:**
 - **QB: Josh Allen (BUF)**
-- **RB: D'Andre Swift (CHI)**
+- **RB: Kyren Williams (LAR)**
 - **WR: Jaxon Smith-Njigba (SEA)**
 - **TE: Colston Loveland (CHI)**
 
-**Projected Points:** 75-85 (should safely advance to top 12-13)
+**Projected Points:** 72-82 (should safely advance to top 12-13)
+
+**Teams Used:** BUF, LAR, SEA, CHI (all different teams ✅)
 
 ### Why This Is The Best Strategy:
 
@@ -469,10 +480,11 @@
 - With Kittle out, game script risk if 49ers fall behind
 - Can use CMC in Conference Championships with better matchup
 
-**3. Uses James Cook Alternative... Actually D'Andre Swift**
-- Swift in highest scoring game (O/U 50.5-51.5)
-- Good PPR value (17.2 R1)
-- Avoids using Buffalo twice
+**3. Uses Kyren Williams at RB**
+- **Can't use D'Andre Swift** - would violate "4 different teams" rule with Loveland
+- **Can't use James Cook** - would violate "4 different teams" rule with Allen
+- Kyren solid option: 15.5 pts R1, 1,252 yards/10 TDs in 2025
+- Rams in high-scoring game vs Bears
 
 **4. Gets Elite WR (JSN)**
 - 1,793 yards (record), dominated 49ers twice
@@ -492,9 +504,10 @@
 
 **7. Team Distribution:**
 - Buffalo: Allen (QB)
-- Chicago: Swift (RB), Loveland (TE)
+- Los Angeles Rams: Kyren Williams (RB)
 - Seattle: Smith-Njigba (WR)
-- Spreads risk across multiple teams
+- Chicago: Loveland (TE)
+- **All 4 different teams ✅** (follows rules)
 
 ---
 
@@ -524,18 +537,18 @@
 - NFC: Seahawks vs Bears
 
 **This means:**
-- If we use BUF, CHI, SEA in R2, we can still use different players from those teams in R3
+- If we use BUF, LAR, SEA, CHI in R2, we can still use different players from those teams in R3
 - CMC available if 49ers advance (unlikely as +7 underdogs)
-- Can build strong R3 lineup even after using Allen, Swift, JSN, Loveland
+- Can build strong R3 lineup even after using Allen, Kyren Williams, JSN, Loveland
 
 ---
 
 ## Confidence Level
 
-**Advancement Probability with Option A:** 85-90%
-- 75-85 projected points should be top 10-12 out of 25
+**Advancement Probability with Option A:** 82-88%
+- 72-82 projected points should be top 10-13 out of 25
 - Cutoff likely around 65-70 points
-- 10-15 point cushion above cutoff
+- 7-12 point cushion above cutoff
 
 **Risk Assessment:**
 - **LOW RISK** - Using proven elite QB (Allen)
