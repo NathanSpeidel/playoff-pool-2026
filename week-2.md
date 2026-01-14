@@ -429,17 +429,17 @@
   - Hot hand, highest scoring game
   - Epic comeback in R1
 
-- **RB: D'Andre Swift (CHI)** - 15-18 projected points
-  - ⚠️ Same team as Caleb Williams!
-  - **ALTERNATIVE: Kyren Williams (LAR)** - 14-17 projected points
+- **RB: Kyren Williams (LAR)** - 14-17 projected points
+  - ⚠️ **Cannot use D'Andre Swift (CHI)** - same team as Caleb Williams!
+  - Kyren solid option in high-scoring game
 
 - **WR: Jaxon Smith-Njigba (SEA)** - 20-25 projected points
 
 - **TE: Hunter Henry (NE)** - 12-15 projected points
   - Can't use Loveland if using Caleb Williams (same team)
 
-**Teams Used:** CHI, SEA, NE (or LAR, CHI, SEA, NE if using Kyren)
-**Projected Total:** 70-85 points
+**Teams Used:** CHI, LAR, SEA, NE ✅ All 4 different teams
+**Projected Total:** 67-82 points
 **Pros:**
 - Saves both Allen AND CMC for Conference Championships
 - Still has strong WR (JSN)
