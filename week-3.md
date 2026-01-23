@@ -20,7 +20,7 @@
 
 ---
 
-## CRITICAL INJURY UPDATE
+## CRITICAL INJURY UPDATES
 
 ### Bo Nix (DEN) - SEASON-ENDING INJURY
 **Status:** OUT - Broken right ankle in OT win vs Bills
@@ -29,6 +29,11 @@
 **Last Start:** 2023 (two games for Denver after Russell Wilson was benched)
 
 **This dramatically changes the AFC matchup!** Patriots defense facing a backup QB who hasn't thrown a pass in a game since 2023.
+
+### Zach Charbonnet (SEA) - OUT
+**Status:** OUT for NFC Championship
+**Impact:** Kenneth Walker III becomes true workhorse back
+**Fantasy Impact:** Walker's projection increases - no more goal-line TD vulturing. Walker should see ALL RB touches including red zone work.
 
 ---
 
@@ -118,11 +123,11 @@
 ### RUNNING BACKS
 
 **Top Tier:**
-- **Kenneth Walker III (SEA)** - STRONG OPTION
+- **Kenneth Walker III (SEA)** - TOP CHOICE
   - 1,027 rush yards, 5 TDs, 31 rec for 282 yards
   - At home vs Rams
   - High-scoring game expected (O/U 47.5)
-  - Concern: Zach Charbonnet vultures goal-line TDs
+  - **Charbonnet OUT** - Walker is true bellcow, no goal-line vulture!
 
 - **Rhamondre Stevenson (NE)** - HOT HAND
   - 12.1 pts in Divisional
@@ -173,9 +178,17 @@
 
 ### TIGHT ENDS
 
-**Note:** This is the weakest position available. All options are limited.
+**Note:** TE options are limited, but Engram stands out.
 
-**Best Available:**
+**Top Option:**
+- **Evan Engram (DEN)** - TOP CHOICE
+  - 50 catches, 461 yards, 1 TD in regular season
+  - Signed 2-year, $23M deal with Denver in March 2025
+  - Sean Payton's "Joker" - moves around formation, creates mismatches
+  - With Stidham at QB, could see checkdown volume
+  - Proven producer (former 1st round pick)
+
+**Other Options:**
 - **Hunter Henry (NE)** - Disappointing 1.5 pts in Divisional
   - Usually reliable (15.4 pts in Wild Card)
   - Red zone target for Maye
@@ -189,8 +202,8 @@
   - Inconsistent
   - Kupp and JSN (burned) dominate targets
 
-- **Adam Trautman (DEN)** - Broncos TE
-  - Limited role
+- **Adam Trautman (DEN)** - Broncos TE2
+  - Limited role behind Engram
   - Backup QB situation hurts passing game
 
 ---
@@ -294,19 +307,21 @@
   - Mobile (450 rush yards this season)
   - Patriots -5.5 favorites
 
-- **RB: Kenneth Walker III (SEA)** - 15-20 projected points
+- **RB: Kenneth Walker III (SEA)** - 18-24 projected points
   - Home game vs Rams
   - High-scoring game expected
   - 1,027 rush yards, dual-threat ability
+  - **Charbonnet OUT** - no goal-line vulture
 
 - **WR: Davante Adams (LAR)** - 12-18 projected points
   - 14 TDs in 14 games this season
   - Elite TD upside
   - Stafford's top target
 
-- **TE: Adam Trautman (DEN)** - 5-8 projected points
-  - Weakest spot but need 4 different teams
-  - Limited upside
+- **TE: Evan Engram (DEN)** - 7-12 projected points
+  - Best TE available on remaining teams
+  - 50 catches, 461 yards this season
+  - Checkdown option for Stidham
 
 - **K: Jason Myers (SEA)** - 8-12 projected points
   - High-scoring NFC game
@@ -317,9 +332,9 @@
   - Turnover potential huge
   - Elite matchup
 
-**Teams Used (QB/RB/WR/TE):** NE, SEA, LAR, DEN (all 4 different )
+**Teams Used (QB/RB/WR/TE):** NE, SEA, LAR, DEN (all 4 different ✓)
 **K:** SEA | **DEF:** NE
-**Projected Total:** 75-103 points
+**Projected Total:** 80-111 points
 
 ---
 
@@ -339,7 +354,7 @@
   - At home, with JSN drawing coverage
 
 - **TE: Colby Parkinson (LAR)** - 6-10 projected points
-  - Better than Trautman
+  - Need LAR since Harvey uses DEN
   - Stafford's safety valve
 
 - **K: Jason Myers (SEA)** - 8-12 projected points
@@ -366,15 +381,15 @@
 - **WR: Davante Adams (LAR)** - 12-18 projected points
   - TD machine
 
-- **TE: Adam Trautman (DEN)** - 5-8 projected points
+- **TE: Evan Engram (DEN)** - 7-12 projected points
 
 - **K: Jason Myers (SEA)** - 8-12 projected points
 
 - **DEF: Seattle Seahawks** - 10-14 projected points
   - Elite defense at home
 
-**Teams Used:** SEA, NE, LAR, DEN (all 4 different )
-**Projected Total:** 64-92 points
+**Teams Used:** SEA, NE, LAR, DEN (all 4 different ✓)
+**Projected Total:** 68-98 points
 
 **Note:** Lower floor than Option A due to Darnold risk
 
@@ -388,15 +403,15 @@
 | Position | Player | Team | Projected |
 |----------|--------|------|-----------|
 | QB | Drake Maye | NE | 25-30 pts |
-| RB | Kenneth Walker III | SEA | 15-20 pts |
+| RB | Kenneth Walker III | SEA | 18-24 pts |
 | WR | Davante Adams | LAR | 12-18 pts |
-| TE | Adam Trautman | DEN | 5-8 pts |
+| TE | Evan Engram | DEN | 7-12 pts |
 | K | Jason Myers | SEA | 8-12 pts |
 | DEF | New England Patriots | NE | 10-15 pts |
 
-**Teams Used:** NE, SEA, LAR, DEN (all 4 different teams )
+**Teams Used:** NE, SEA, LAR, DEN (all 4 different teams ✓)
 
-**Projected Total:** 75-103 points
+**Projected Total:** 80-111 points
 
 ---
 
@@ -424,10 +439,10 @@
 - 78.3 career passer rating, turnover prone
 - Patriots picked off Stroud 4 times last week
 
-**5. Accept TE Weakness**
-- All TE options are weak
-- Trautman fills the 4th team requirement
-- Focus scoring on other positions
+**5. Evan Engram is Best TE Available**
+- 50 catches, 461 yards, 1 TD this season
+- Sean Payton's "Joker" weapon
+- Checkdown option for Stidham under pressure
 
 **6. Jason Myers in High-Scoring Game**
 - NFC Championship expected to be shootout
@@ -453,6 +468,7 @@ Consider swapping Walker for Stevenson:
 1. **Rhamondre Stevenson eye injury** - May affect his status
 2. **Any late injury news** - Especially Walker or Adams
 3. **Weather in Seattle** - Usually rainy, may affect passing
+4. **Charbonnet confirmed OUT** - Boosts Walker's value significantly
 
 ---
 
@@ -489,11 +505,11 @@ Consider swapping Walker for Stevenson:
 - Davante Adams TD upside differentiator
 
 **Key Risks:**
-- TE position is weak (everyone faces this)
 - Adams had poor Week 2 (4.4 pts)
 - Stafford's inconsistency affects Adams
+- Engram's production depends on Stidham's competence
 
-**Bottom Line:** This lineup maximizes points at the positions we can control while accepting the weak TE options everyone faces.
+**Bottom Line:** This lineup maximizes points at every position with the best available players from all 4 remaining teams.
 
 ---
 
@@ -526,11 +542,21 @@ Consider swapping Walker for Stevenson:
 
 ### RECOMMENDED LINEUP:
 - **QB:** Drake Maye (NE) - Best QB, MVP candidate
-- **RB:** Kenneth Walker III (SEA) - Home game, high-scoring
+- **RB:** Kenneth Walker III (SEA) - Home game, high-scoring, Charbonnet OUT
 - **WR:** Davante Adams (LAR) - 14 TDs this season, elite upside
-- **TE:** Adam Trautman (DEN) - Weak but need 4 teams
+- **TE:** Evan Engram (DEN) - Best TE available, checkdown target
 - **K:** Jason Myers (SEA) - High-scoring NFC game
 - **DEF:** New England Patriots - FACING BACKUP QB!
 
-**Projected:** 75-103 points
+**Projected:** 80-111 points
 **Key:** Patriots D vs Stidham is the cheat code of the week!
+
+
+
+QB: Drake Maye (NE)
+RB: Kenneth Walker III (SEA)
+WR: Davante Adams (LAR)
+TE: Evan Engram (DEN)
+K:  Jason Myers (SEA)
+DEF: New England Patriots
+
